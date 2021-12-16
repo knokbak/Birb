@@ -6,7 +6,7 @@
 ## About
 Birb.js is a simple, yet powerful [Discord API](https://discord.dev) wrapper for [Node.js](https://nodejs.org).  
 With just a few lines of code, you can get a Discord bot connected to the API.  
-**Birb.js is still in development. It is highly recommended you don’t use it until it’s ready.**
+**Birb.js is still in development. It is highly recommended you DO NOT use it until it’s ready.**
 
 ## Links
 [Documentation](https://birb.js.org/)    
@@ -23,7 +23,7 @@ pnpm add birb
 ```
 
 ### Optional Addons
-Birb.js comes with a few optional addons made by the our team.  
+Birb.js comes with a few optional addons made by our team.  
 Please view their documentation for more information on how to use them.  
 **None of these libraries are installed by default** and all of them are completely optional.
 
