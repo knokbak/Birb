@@ -40,7 +40,8 @@ These dependencies aren't required, but will allow Birb.js to do things more eff
 - [bufferutil](https://npmjs.com/package/bufferutil) quicker (un)masking of websocket data and packets (`npm install bufferutil`)
 - [utf-8-validate](https://npmjs.com/package/utf-8-validate) more efficient websocket data validation (`npm install utf-8-validate`)
 
-**Most of these dependencies require [node-gyp](https://github.com/nodejs/node-gyp) which some users may struggle to install (mostly due to very unhelpful errors).**  
+**Most of these dependencies require [node-gyp](https://github.com/nodejs/node-gyp) which some users may struggle to install (mostly due to very unhelpful errors).**
+
 If you're on Windows, run `npm install windows-build-tools --global` in an **administrator** command prompt.  
 If you're on Ubuntu, run `sudo apt install build-tools`.  
 
