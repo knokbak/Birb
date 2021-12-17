@@ -11,7 +11,7 @@ With just a few lines of code, you can get a Discord bot connected to the API.
 ## Links
 [Documentation](https://birb.js.org/)    
 [GitHub](https://github.com/BirbJS/Birb)    
-[NPM](https://npmjs.com/package/birb)
+[NPM](https://npmjs.com/package/birb)  
 [Discord API Server](https://discord.gg/invite/discord-developers)
 
 ## Installation
